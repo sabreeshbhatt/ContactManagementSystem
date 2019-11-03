@@ -1,0 +1,6 @@
+1. Install MySQL Workbench.
+2. open mysql and create a database named "sabreesh"
+3. open mysql workbench and go to "local instance mysql"
+4. click on "data import/restore"
+5. browse and choose "database sabreesh" folder from the button next to textfield in import from disk.
+6. click on import button and the tables get imported!!!!
